@@ -50,9 +50,9 @@ The three Iris species are Setosa, Versicolor, and Virginica.
 
 ## Output Files
 
-\- `output/species\_summary.csv` — Average measurements for each species.
+- `output/species\_summary.csv` — Average measurements for each species.
 
-\- `output/filtered\_iris.csv` — Flowers with sepal length greater than 6 cm.
+- `output/filtered\_iris.csv` — Flowers with sepal length greater than 6 cm.
 
 
 
